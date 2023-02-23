@@ -1,2 +1,2 @@
-import e from"react";const l=()=>e.createElement("div",null,"HelloWorld");export{l as default};
+import e from"react";import"./HelloWorld.scss.js";const t=()=>e.createElement("div",{className:"test"},"HelloWorld");export{t as default};
 //# sourceMappingURL=HelloWorld.js.map
