@@ -18,9 +18,7 @@ export declare function SvgContentCopy(props: IconBaseProps): JSX.Element;
 export declare function SvgContentCut(props: IconBaseProps): JSX.Element;
 export declare function SvgContentPasteGo(props: IconBaseProps): JSX.Element;
 export declare function SvgContentPasteOff(props: IconBaseProps): JSX.Element;
-export declare function SvgContentPasteSearch(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgContentPasteSearch(props: IconBaseProps): JSX.Element;
 export declare function SvgContentPaste(props: IconBaseProps): JSX.Element;
 export declare function SvgCopyAll(props: IconBaseProps): JSX.Element;
 export declare function SvgCreate(props: IconBaseProps): JSX.Element;
@@ -54,16 +52,12 @@ export declare function SvgOutlinedFlag(props: IconBaseProps): JSX.Element;
 export declare function SvgPolicy(props: IconBaseProps): JSX.Element;
 export declare function SvgPushPin(props: IconBaseProps): JSX.Element;
 export declare function SvgRedo(props: IconBaseProps): JSX.Element;
-export declare function SvgRemoveCircleOutline(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgRemoveCircleOutline(props: IconBaseProps): JSX.Element;
 export declare function SvgRemoveCircle(props: IconBaseProps): JSX.Element;
 export declare function SvgRemove(props: IconBaseProps): JSX.Element;
 export declare function SvgReplyAll(props: IconBaseProps): JSX.Element;
 export declare function SvgReply(props: IconBaseProps): JSX.Element;
-export declare function SvgReportGmailerrorred(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgReportGmailerrorred(props: IconBaseProps): JSX.Element;
 export declare function SvgReportOff(props: IconBaseProps): JSX.Element;
 export declare function SvgReport(props: IconBaseProps): JSX.Element;
 export declare function SvgSaveAlt(props: IconBaseProps): JSX.Element;

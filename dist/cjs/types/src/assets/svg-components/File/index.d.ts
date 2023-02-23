@@ -13,16 +13,12 @@ export declare function SvgCloud(props: IconBaseProps): JSX.Element;
 export declare function SvgCreateNewFolder(props: IconBaseProps): JSX.Element;
 export declare function SvgDifference(props: IconBaseProps): JSX.Element;
 export declare function SvgDownloadDone(props: IconBaseProps): JSX.Element;
-export declare function SvgDownloadForOffline(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgDownloadForOffline(props: IconBaseProps): JSX.Element;
 export declare function SvgDownload(props: IconBaseProps): JSX.Element;
 export declare function SvgDownloading(props: IconBaseProps): JSX.Element;
 export declare function SvgDriveFileMoveRtl(props: IconBaseProps): JSX.Element;
 export declare function SvgDriveFileMove(props: IconBaseProps): JSX.Element;
-export declare function SvgDriveFileRenameOutline(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgDriveFileRenameOutline(props: IconBaseProps): JSX.Element;
 export declare function SvgDriveFolderUpload(props: IconBaseProps): JSX.Element;
 export declare function SvgFileDownloadDone(props: IconBaseProps): JSX.Element;
 export declare function SvgFileDownloadOff(props: IconBaseProps): JSX.Element;

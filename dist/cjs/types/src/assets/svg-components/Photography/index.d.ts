@@ -65,17 +65,13 @@ export declare function SvgCases(props: IconBaseProps): JSX.Element;
 export declare function SvgCenterFocusStrong(props: IconBaseProps): JSX.Element;
 export declare function SvgCenterFocusWeak(props: IconBaseProps): JSX.Element;
 export declare function SvgCircle(props: IconBaseProps): JSX.Element;
-export declare function SvgCollectionsBookmark(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgCollectionsBookmark(props: IconBaseProps): JSX.Element;
 export declare function SvgCollections(props: IconBaseProps): JSX.Element;
 export declare function SvgColorLens(props: IconBaseProps): JSX.Element;
 export declare function SvgColorize(props: IconBaseProps): JSX.Element;
 export declare function SvgCompare(props: IconBaseProps): JSX.Element;
 export declare function SvgContrast(props: IconBaseProps): JSX.Element;
-export declare function SvgControlPointDuplicate(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgControlPointDuplicate(props: IconBaseProps): JSX.Element;
 export declare function SvgControlPoint(props: IconBaseProps): JSX.Element;
 export declare function SvgCrop169(props: IconBaseProps): JSX.Element;
 export declare function SvgCrop32(props: IconBaseProps): JSX.Element;
@@ -109,9 +105,7 @@ export declare function SvgExposurePlus1(props: IconBaseProps): JSX.Element;
 export declare function SvgExposurePlus2(props: IconBaseProps): JSX.Element;
 export declare function SvgExposureZero(props: IconBaseProps): JSX.Element;
 export declare function SvgExposure(props: IconBaseProps): JSX.Element;
-export declare function SvgFaceRetouchingNatural(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgFaceRetouchingNatural(props: IconBaseProps): JSX.Element;
 export declare function SvgFaceRetouchingOff(props: IconBaseProps): JSX.Element;
 export declare function SvgFilter1(props: IconBaseProps): JSX.Element;
 export declare function SvgFilter2(props: IconBaseProps): JSX.Element;
@@ -179,9 +173,7 @@ export declare function SvgMotionPhotosAuto(props: IconBaseProps): JSX.Element;
 export declare function SvgMotionPhotosOff(props: IconBaseProps): JSX.Element;
 export declare function SvgMotionPhotosOn(props: IconBaseProps): JSX.Element;
 export declare function SvgMotionPhotosPause(props: IconBaseProps): JSX.Element;
-export declare function SvgMotionPhotosPaused(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgMotionPhotosPaused(props: IconBaseProps): JSX.Element;
 export declare function SvgMovieCreation(props: IconBaseProps): JSX.Element;
 export declare function SvgMovieFilter(props: IconBaseProps): JSX.Element;
 export declare function SvgMp(props: IconBaseProps): JSX.Element;
@@ -193,25 +185,13 @@ export declare function SvgNavigateBefore(props: IconBaseProps): JSX.Element;
 export declare function SvgNavigateNext(props: IconBaseProps): JSX.Element;
 export declare function SvgPalette(props: IconBaseProps): JSX.Element;
 export declare function SvgPanoramaFishEye(props: IconBaseProps): JSX.Element;
-export declare function SvgPanoramaHorizontalSelect(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgPanoramaHorizontal(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgPanoramaPhotosphereSelect(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgPanoramaPhotosphere(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgPanoramaVerticalSelect(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgPanoramaHorizontalSelect(props: IconBaseProps): JSX.Element;
+export declare function SvgPanoramaHorizontal(props: IconBaseProps): JSX.Element;
+export declare function SvgPanoramaPhotosphereSelect(props: IconBaseProps): JSX.Element;
+export declare function SvgPanoramaPhotosphere(props: IconBaseProps): JSX.Element;
+export declare function SvgPanoramaVerticalSelect(props: IconBaseProps): JSX.Element;
 export declare function SvgPanoramaVertical(props: IconBaseProps): JSX.Element;
-export declare function SvgPanoramaWideAngleSelect(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgPanoramaWideAngleSelect(props: IconBaseProps): JSX.Element;
 export declare function SvgPanoramaWideAngle(props: IconBaseProps): JSX.Element;
 export declare function SvgPanorama(props: IconBaseProps): JSX.Element;
 export declare function SvgPhotoAlbum(props: IconBaseProps): JSX.Element;
@@ -220,15 +200,9 @@ export declare function SvgPhotoCameraFront(props: IconBaseProps): JSX.Element;
 export declare function SvgPhotoCamera(props: IconBaseProps): JSX.Element;
 export declare function SvgPhotoFilter(props: IconBaseProps): JSX.Element;
 export declare function SvgPhotoLibrary(props: IconBaseProps): JSX.Element;
-export declare function SvgPhotoSizeSelectActual(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgPhotoSizeSelectLarge(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgPhotoSizeSelectSmall(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgPhotoSizeSelectActual(props: IconBaseProps): JSX.Element;
+export declare function SvgPhotoSizeSelectLarge(props: IconBaseProps): JSX.Element;
+export declare function SvgPhotoSizeSelectSmall(props: IconBaseProps): JSX.Element;
 export declare function SvgPhoto(props: IconBaseProps): JSX.Element;
 export declare function SvgPictureAsPdf(props: IconBaseProps): JSX.Element;
 export declare function SvgPortrait(props: IconBaseProps): JSX.Element;
@@ -236,9 +210,7 @@ export declare function SvgRawOff(props: IconBaseProps): JSX.Element;
 export declare function SvgRawOn(props: IconBaseProps): JSX.Element;
 export declare function SvgReceiptLong(props: IconBaseProps): JSX.Element;
 export declare function SvgRemoveRedEye(props: IconBaseProps): JSX.Element;
-export declare function SvgRotate90DegreesCcw(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgRotate90DegreesCcw(props: IconBaseProps): JSX.Element;
 export declare function SvgRotate90DegreesCw(props: IconBaseProps): JSX.Element;
 export declare function SvgRotateLeft(props: IconBaseProps): JSX.Element;
 export declare function SvgRotateRight(props: IconBaseProps): JSX.Element;

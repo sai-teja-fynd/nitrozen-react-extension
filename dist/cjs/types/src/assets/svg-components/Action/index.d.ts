@@ -6,9 +6,7 @@ export declare function SvgAccessibilityNew(props: IconBaseProps): JSX.Element;
 export declare function SvgAccessibility(props: IconBaseProps): JSX.Element;
 export declare function SvgAccessibleForward(props: IconBaseProps): JSX.Element;
 export declare function SvgAccessible(props: IconBaseProps): JSX.Element;
-export declare function SvgAccountBalanceWallet(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgAccountBalanceWallet(props: IconBaseProps): JSX.Element;
 export declare function SvgAccountBalance(props: IconBaseProps): JSX.Element;
 export declare function SvgAccountBox(props: IconBaseProps): JSX.Element;
 export declare function SvgAccountCircle(props: IconBaseProps): JSX.Element;
@@ -17,9 +15,7 @@ export declare function SvgAddShoppingCart(props: IconBaseProps): JSX.Element;
 export declare function SvgAddTask(props: IconBaseProps): JSX.Element;
 export declare function SvgAddToDrive(props: IconBaseProps): JSX.Element;
 export declare function SvgAddchart(props: IconBaseProps): JSX.Element;
-export declare function SvgAdminPanelSettings(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgAdminPanelSettings(props: IconBaseProps): JSX.Element;
 export declare function SvgAdsClick(props: IconBaseProps): JSX.Element;
 export declare function SvgAlarmAdd(props: IconBaseProps): JSX.Element;
 export declare function SvgAlarmOff(props: IconBaseProps): JSX.Element;
@@ -45,12 +41,8 @@ export declare function SvgAssessment(props: IconBaseProps): JSX.Element;
 export declare function SvgAssignmentInd(props: IconBaseProps): JSX.Element;
 export declare function SvgAssignmentLate(props: IconBaseProps): JSX.Element;
 export declare function SvgAssignmentReturn(props: IconBaseProps): JSX.Element;
-export declare function SvgAssignmentReturned(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgAssignmentTurnedIn(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgAssignmentReturned(props: IconBaseProps): JSX.Element;
+export declare function SvgAssignmentTurnedIn(props: IconBaseProps): JSX.Element;
 export declare function SvgAssignment(props: IconBaseProps): JSX.Element;
 export declare function SvgAssuredWorkload(props: IconBaseProps): JSX.Element;
 export declare function SvgAutorenew(props: IconBaseProps): JSX.Element;
@@ -78,21 +70,15 @@ export declare function SvgCalendarViewDay(props: IconBaseProps): JSX.Element;
 export declare function SvgCalendarViewMonth(props: IconBaseProps): JSX.Element;
 export declare function SvgCalendarViewWeek(props: IconBaseProps): JSX.Element;
 export declare function SvgCameraEnhance(props: IconBaseProps): JSX.Element;
-export declare function SvgCancelScheduleSend(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgCancelScheduleSend(props: IconBaseProps): JSX.Element;
 export declare function SvgCardGiftcard(props: IconBaseProps): JSX.Element;
 export declare function SvgCardMembership(props: IconBaseProps): JSX.Element;
 export declare function SvgCardTravel(props: IconBaseProps): JSX.Element;
 export declare function SvgChangeHistory(props: IconBaseProps): JSX.Element;
-export declare function SvgCheckCircleOutline(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgCheckCircleOutline(props: IconBaseProps): JSX.Element;
 export declare function SvgCheckCircle(props: IconBaseProps): JSX.Element;
 export declare function SvgChromeReaderMode(props: IconBaseProps): JSX.Element;
-export declare function SvgCircleNotifications(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgCircleNotifications(props: IconBaseProps): JSX.Element;
 export declare function SvgClass(props: IconBaseProps): JSX.Element;
 export declare function SvgCloseFullscreen(props: IconBaseProps): JSX.Element;
 export declare function SvgCodeOff(props: IconBaseProps): JSX.Element;
@@ -111,9 +97,7 @@ export declare function SvgCreditCard(props: IconBaseProps): JSX.Element;
 export declare function SvgCss(props: IconBaseProps): JSX.Element;
 export declare function SvgCurrencyExchange(props: IconBaseProps): JSX.Element;
 export declare function SvgDangerous(props: IconBaseProps): JSX.Element;
-export declare function SvgDashboardCustomize(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgDashboardCustomize(props: IconBaseProps): JSX.Element;
 export declare function SvgDashboard(props: IconBaseProps): JSX.Element;
 export declare function SvgDataExploration(props: IconBaseProps): JSX.Element;
 export declare function SvgDataThresholding(props: IconBaseProps): JSX.Element;
@@ -202,9 +186,7 @@ export declare function SvgInfo(props: IconBaseProps): JSX.Element;
 export declare function SvgInput(props: IconBaseProps): JSX.Element;
 export declare function SvgInstallDesktop(props: IconBaseProps): JSX.Element;
 export declare function SvgInstallMobile(props: IconBaseProps): JSX.Element;
-export declare function SvgIntegrationInstructions(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgIntegrationInstructions(props: IconBaseProps): JSX.Element;
 export declare function SvgInvertColors(props: IconBaseProps): JSX.Element;
 export declare function SvgJavascript(props: IconBaseProps): JSX.Element;
 export declare function SvgJoinFull(props: IconBaseProps): JSX.Element;
@@ -270,22 +252,16 @@ export declare function SvgPendingActions(props: IconBaseProps): JSX.Element;
 export declare function SvgPending(props: IconBaseProps): JSX.Element;
 export declare function SvgPercent(props: IconBaseProps): JSX.Element;
 export declare function SvgPermCameraMic(props: IconBaseProps): JSX.Element;
-export declare function SvgPermContactCalendar(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgPermContactCalendar(props: IconBaseProps): JSX.Element;
 export declare function SvgPermDataSetting(props: IconBaseProps): JSX.Element;
-export declare function SvgPermDeviceInformation(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgPermDeviceInformation(props: IconBaseProps): JSX.Element;
 export declare function SvgPermIdentity(props: IconBaseProps): JSX.Element;
 export declare function SvgPermMedia(props: IconBaseProps): JSX.Element;
 export declare function SvgPermPhoneMsg(props: IconBaseProps): JSX.Element;
 export declare function SvgPermScanWifi(props: IconBaseProps): JSX.Element;
 export declare function SvgPets(props: IconBaseProps): JSX.Element;
 export declare function SvgPhp(props: IconBaseProps): JSX.Element;
-export declare function SvgPictureInPictureAlt(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgPictureInPictureAlt(props: IconBaseProps): JSX.Element;
 export declare function SvgPictureInPicture(props: IconBaseProps): JSX.Element;
 export declare function SvgPinEnd(props: IconBaseProps): JSX.Element;
 export declare function SvgPinInvoke(props: IconBaseProps): JSX.Element;
@@ -298,15 +274,9 @@ export declare function SvgPregnantWoman(props: IconBaseProps): JSX.Element;
 export declare function SvgPreview(props: IconBaseProps): JSX.Element;
 export declare function SvgPrint(props: IconBaseProps): JSX.Element;
 export declare function SvgPrivacyTip(props: IconBaseProps): JSX.Element;
-export declare function SvgPrivateConnectivity(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgProductionQuantityLimits(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgPublishedWithChanges(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgPrivateConnectivity(props: IconBaseProps): JSX.Element;
+export declare function SvgProductionQuantityLimits(props: IconBaseProps): JSX.Element;
+export declare function SvgPublishedWithChanges(props: IconBaseProps): JSX.Element;
 export declare function SvgQueryBuilder(props: IconBaseProps): JSX.Element;
 export declare function SvgQuestionAnswer(props: IconBaseProps): JSX.Element;
 export declare function SvgQuestionMark(props: IconBaseProps): JSX.Element;
@@ -315,9 +285,7 @@ export declare function SvgReceipt(props: IconBaseProps): JSX.Element;
 export declare function SvgRecordVoiceOver(props: IconBaseProps): JSX.Element;
 export declare function SvgRedeem(props: IconBaseProps): JSX.Element;
 export declare function SvgRemoveDone(props: IconBaseProps): JSX.Element;
-export declare function SvgRemoveShoppingCart(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgRemoveShoppingCart(props: IconBaseProps): JSX.Element;
 export declare function SvgReorder(props: IconBaseProps): JSX.Element;
 export declare function SvgReportProblem(props: IconBaseProps): JSX.Element;
 export declare function SvgRequestPage(props: IconBaseProps): JSX.Element;
@@ -341,34 +309,18 @@ export declare function SvgSegment(props: IconBaseProps): JSX.Element;
 export declare function SvgSendAndArchive(props: IconBaseProps): JSX.Element;
 export declare function SvgSensorsOff(props: IconBaseProps): JSX.Element;
 export declare function SvgSensors(props: IconBaseProps): JSX.Element;
-export declare function SvgSettingsAccessibility(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgSettingsApplications(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgSettingsBackupRestore(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgSettingsAccessibility(props: IconBaseProps): JSX.Element;
+export declare function SvgSettingsApplications(props: IconBaseProps): JSX.Element;
+export declare function SvgSettingsBackupRestore(props: IconBaseProps): JSX.Element;
 export declare function SvgSettingsBluetooth(props: IconBaseProps): JSX.Element;
-export declare function SvgSettingsBrightness(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgSettingsBrightness(props: IconBaseProps): JSX.Element;
 export declare function SvgSettingsCell(props: IconBaseProps): JSX.Element;
 export declare function SvgSettingsEthernet(props: IconBaseProps): JSX.Element;
-export declare function SvgSettingsInputAntenna(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgSettingsInputComponent(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgSettingsInputComposite(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgSettingsInputAntenna(props: IconBaseProps): JSX.Element;
+export declare function SvgSettingsInputComponent(props: IconBaseProps): JSX.Element;
+export declare function SvgSettingsInputComposite(props: IconBaseProps): JSX.Element;
 export declare function SvgSettingsInputHdmi(props: IconBaseProps): JSX.Element;
-export declare function SvgSettingsInputSvideo(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgSettingsInputSvideo(props: IconBaseProps): JSX.Element;
 export declare function SvgSettingsOverscan(props: IconBaseProps): JSX.Element;
 export declare function SvgSettingsPhone(props: IconBaseProps): JSX.Element;
 export declare function SvgSettingsPower(props: IconBaseProps): JSX.Element;
@@ -380,9 +332,7 @@ export declare function SvgShopTwo(props: IconBaseProps): JSX.Element;
 export declare function SvgShop(props: IconBaseProps): JSX.Element;
 export declare function SvgShoppingBag(props: IconBaseProps): JSX.Element;
 export declare function SvgShoppingBasket(props: IconBaseProps): JSX.Element;
-export declare function SvgShoppingCartCheckout(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgShoppingCartCheckout(props: IconBaseProps): JSX.Element;
 export declare function SvgShoppingCart(props: IconBaseProps): JSX.Element;
 export declare function SvgSmartButton(props: IconBaseProps): JSX.Element;
 export declare function SvgSource(props: IconBaseProps): JSX.Element;
@@ -399,19 +349,13 @@ export declare function SvgStickyNote2(props: IconBaseProps): JSX.Element;
 export declare function SvgStore(props: IconBaseProps): JSX.Element;
 export declare function SvgSubject(props: IconBaseProps): JSX.Element;
 export declare function SvgSubtitlesOff(props: IconBaseProps): JSX.Element;
-export declare function SvgSupervisedUserCircle(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgSupervisedUserCircle(props: IconBaseProps): JSX.Element;
 export declare function SvgSupervisorAccount(props: IconBaseProps): JSX.Element;
 export declare function SvgSupport(props: IconBaseProps): JSX.Element;
 export declare function SvgSwapHoriz(props: IconBaseProps): JSX.Element;
-export declare function SvgSwapHorizontalCircle(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgSwapHorizontalCircle(props: IconBaseProps): JSX.Element;
 export declare function SvgSwapVert(props: IconBaseProps): JSX.Element;
-export declare function SvgSwapVerticalCircle(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgSwapVerticalCircle(props: IconBaseProps): JSX.Element;
 export declare function SvgSwipeDownAlt(props: IconBaseProps): JSX.Element;
 export declare function SvgSwipeDown(props: IconBaseProps): JSX.Element;
 export declare function SvgSwipeLeftAlt(props: IconBaseProps): JSX.Element;
@@ -422,12 +366,8 @@ export declare function SvgSwipeUpAlt(props: IconBaseProps): JSX.Element;
 export declare function SvgSwipeUp(props: IconBaseProps): JSX.Element;
 export declare function SvgSwipeVertical(props: IconBaseProps): JSX.Element;
 export declare function SvgSwipe(props: IconBaseProps): JSX.Element;
-export declare function SvgSwitchAccessShortcutAdd(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgSwitchAccessShortcut(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgSwitchAccessShortcutAdd(props: IconBaseProps): JSX.Element;
+export declare function SvgSwitchAccessShortcut(props: IconBaseProps): JSX.Element;
 export declare function SvgSyncAlt(props: IconBaseProps): JSX.Element;
 export declare function SvgSystemUpdateAlt(props: IconBaseProps): JSX.Element;
 export declare function SvgTabUnselected(props: IconBaseProps): JSX.Element;
@@ -436,15 +376,9 @@ export declare function SvgTableView(props: IconBaseProps): JSX.Element;
 export declare function SvgTaskAlt(props: IconBaseProps): JSX.Element;
 export declare function SvgTerminal(props: IconBaseProps): JSX.Element;
 export declare function SvgTextRotateUp(props: IconBaseProps): JSX.Element;
-export declare function SvgTextRotateVertical(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgTextRotationAngledown(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgTextRotationAngleup(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgTextRotateVertical(props: IconBaseProps): JSX.Element;
+export declare function SvgTextRotationAngledown(props: IconBaseProps): JSX.Element;
+export declare function SvgTextRotationAngleup(props: IconBaseProps): JSX.Element;
 export declare function SvgTextRotationDown(props: IconBaseProps): JSX.Element;
 export declare function SvgTextRotationNone(props: IconBaseProps): JSX.Element;
 export declare function SvgTheaters(props: IconBaseProps): JSX.Element;
@@ -502,17 +436,13 @@ export declare function SvgWebhook(props: IconBaseProps): JSX.Element;
 export declare function SvgWidthFull(props: IconBaseProps): JSX.Element;
 export declare function SvgWidthNormal(props: IconBaseProps): JSX.Element;
 export declare function SvgWidthWide(props: IconBaseProps): JSX.Element;
-export declare function SvgWifiProtectedSetup(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgWifiProtectedSetup(props: IconBaseProps): JSX.Element;
 export declare function SvgWorkHistory(props: IconBaseProps): JSX.Element;
 export declare function SvgWorkOff(props: IconBaseProps): JSX.Element;
 export declare function SvgWorkOutline(props: IconBaseProps): JSX.Element;
 export declare function SvgWork(props: IconBaseProps): JSX.Element;
 export declare function SvgWysiwyg(props: IconBaseProps): JSX.Element;
-export declare function SvgYoutubeSearchedFor(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgYoutubeSearchedFor(props: IconBaseProps): JSX.Element;
 export declare function SvgZoomIn(props: IconBaseProps): JSX.Element;
 export declare function SvgZoomOut(props: IconBaseProps): JSX.Element;
 export declare function SvgBulkAction(props: IconBaseProps): JSX.Element;

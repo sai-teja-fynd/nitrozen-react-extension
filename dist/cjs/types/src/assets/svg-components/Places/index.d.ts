@@ -3,9 +3,7 @@ export declare function SvgAcUnit(props: IconBaseProps): JSX.Element;
 export declare function SvgAirportShuttle(props: IconBaseProps): JSX.Element;
 export declare function SvgAllInclusive(props: IconBaseProps): JSX.Element;
 export declare function SvgApartment(props: IconBaseProps): JSX.Element;
-export declare function SvgBabyChangingStation(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgBabyChangingStation(props: IconBaseProps): JSX.Element;
 export declare function SvgBackpack(props: IconBaseProps): JSX.Element;
 export declare function SvgBalcony(props: IconBaseProps): JSX.Element;
 export declare function SvgBathtub(props: IconBaseProps): JSX.Element;

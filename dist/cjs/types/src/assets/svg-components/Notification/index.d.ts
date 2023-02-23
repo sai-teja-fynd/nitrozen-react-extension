@@ -1,32 +1,16 @@
 import { IconBaseProps } from "../../../components/Icons/GenIcon";
 export declare function SvgAccountTree(props: IconBaseProps): JSX.Element;
 export declare function SvgAdb(props: IconBaseProps): JSX.Element;
-export declare function SvgAirlineSeatFlatAngled(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgAirlineSeatFlatAngled(props: IconBaseProps): JSX.Element;
 export declare function SvgAirlineSeatFlat(props: IconBaseProps): JSX.Element;
-export declare function SvgAirlineSeatIndividualSuite(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgAirlineSeatLegroomExtra(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgAirlineSeatLegroomNormal(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgAirlineSeatLegroomReduced(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgAirlineSeatReclineExtra(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgAirlineSeatReclineNormal(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgAirlineSeatIndividualSuite(props: IconBaseProps): JSX.Element;
+export declare function SvgAirlineSeatLegroomExtra(props: IconBaseProps): JSX.Element;
+export declare function SvgAirlineSeatLegroomNormal(props: IconBaseProps): JSX.Element;
+export declare function SvgAirlineSeatLegroomReduced(props: IconBaseProps): JSX.Element;
+export declare function SvgAirlineSeatReclineExtra(props: IconBaseProps): JSX.Element;
+export declare function SvgAirlineSeatReclineNormal(props: IconBaseProps): JSX.Element;
 export declare function SvgBluetoothAudio(props: IconBaseProps): JSX.Element;
-export declare function SvgConfirmationNumber(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgConfirmationNumber(props: IconBaseProps): JSX.Element;
 export declare function SvgDirectionsOff(props: IconBaseProps): JSX.Element;
 export declare function SvgDiscFull(props: IconBaseProps): JSX.Element;
 export declare function SvgDoDisturbAlt(props: IconBaseProps): JSX.Element;
@@ -38,9 +22,7 @@ export declare function SvgDoNotDisturbOff(props: IconBaseProps): JSX.Element;
 export declare function SvgDoNotDisturbOn(props: IconBaseProps): JSX.Element;
 export declare function SvgDoNotDisturb(props: IconBaseProps): JSX.Element;
 export declare function SvgDriveEta(props: IconBaseProps): JSX.Element;
-export declare function SvgEnhancedEncryption(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgEnhancedEncryption(props: IconBaseProps): JSX.Element;
 export declare function SvgEventAvailable(props: IconBaseProps): JSX.Element;
 export declare function SvgEventBusy(props: IconBaseProps): JSX.Element;
 export declare function SvgEventNote(props: IconBaseProps): JSX.Element;
@@ -51,15 +33,11 @@ export declare function SvgMms(props: IconBaseProps): JSX.Element;
 export declare function SvgMore(props: IconBaseProps): JSX.Element;
 export declare function SvgNetworkCheck(props: IconBaseProps): JSX.Element;
 export declare function SvgNetworkLocked(props: IconBaseProps): JSX.Element;
-export declare function SvgNoEncryptionGmailerrorred(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgNoEncryptionGmailerrorred(props: IconBaseProps): JSX.Element;
 export declare function SvgNoEncryption(props: IconBaseProps): JSX.Element;
 export declare function SvgOndemandVideo(props: IconBaseProps): JSX.Element;
 export declare function SvgPersonalVideo(props: IconBaseProps): JSX.Element;
-export declare function SvgPhoneBluetoothSpeaker(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgPhoneBluetoothSpeaker(props: IconBaseProps): JSX.Element;
 export declare function SvgPhoneCallback(props: IconBaseProps): JSX.Element;
 export declare function SvgPhoneForwarded(props: IconBaseProps): JSX.Element;
 export declare function SvgPhoneInTalk(props: IconBaseProps): JSX.Element;

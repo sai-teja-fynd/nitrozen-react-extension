@@ -11,9 +11,7 @@ export declare function SvgCatchingPokemon(props: IconBaseProps): JSX.Element;
 export declare function SvgCleanHands(props: IconBaseProps): JSX.Element;
 export declare function SvgCo2(props: IconBaseProps): JSX.Element;
 export declare function SvgCompost(props: IconBaseProps): JSX.Element;
-export declare function SvgConnectWithoutContact(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgConnectWithoutContact(props: IconBaseProps): JSX.Element;
 export declare function SvgConstruction(props: IconBaseProps): JSX.Element;
 export declare function SvgCookie(props: IconBaseProps): JSX.Element;
 export declare function SvgCoronavirus(props: IconBaseProps): JSX.Element;
@@ -33,9 +31,7 @@ export declare function SvgEmojiNature(props: IconBaseProps): JSX.Element;
 export declare function SvgEmojiObjects(props: IconBaseProps): JSX.Element;
 export declare function SvgEmojiPeople(props: IconBaseProps): JSX.Element;
 export declare function SvgEmojiSymbols(props: IconBaseProps): JSX.Element;
-export declare function SvgEmojiTransportation(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgEmojiTransportation(props: IconBaseProps): JSX.Element;
 export declare function SvgEngineering(props: IconBaseProps): JSX.Element;
 export declare function SvgFemale(props: IconBaseProps): JSX.Element;
 export declare function SvgFireplace(props: IconBaseProps): JSX.Element;
@@ -75,14 +71,10 @@ export declare function SvgNoAdultContent(props: IconBaseProps): JSX.Element;
 export declare function SvgNoLuggage(props: IconBaseProps): JSX.Element;
 export declare function SvgNordicWalking(props: IconBaseProps): JSX.Element;
 export declare function SvgNotificationAdd(props: IconBaseProps): JSX.Element;
-export declare function SvgNotificationsActive(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgNotificationsActive(props: IconBaseProps): JSX.Element;
 export declare function SvgNotificationsNone(props: IconBaseProps): JSX.Element;
 export declare function SvgNotificationsOff(props: IconBaseProps): JSX.Element;
-export declare function SvgNotificationsPaused(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgNotificationsPaused(props: IconBaseProps): JSX.Element;
 export declare function SvgNotifications(props: IconBaseProps): JSX.Element;
 export declare function SvgOutdoorGrill(props: IconBaseProps): JSX.Element;
 export declare function SvgPages(props: IconBaseProps): JSX.Element;
@@ -105,9 +97,7 @@ export declare function SvgPiano(props: IconBaseProps): JSX.Element;
 export declare function SvgPix(props: IconBaseProps): JSX.Element;
 export declare function SvgPlusOne(props: IconBaseProps): JSX.Element;
 export declare function SvgPoll(props: IconBaseProps): JSX.Element;
-export declare function SvgPrecisionManufacturing(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgPrecisionManufacturing(props: IconBaseProps): JSX.Element;
 export declare function SvgPsychology(props: IconBaseProps): JSX.Element;
 export declare function SvgPublicOff(props: IconBaseProps): JSX.Element;
 export declare function SvgPublic(props: IconBaseProps): JSX.Element;
@@ -125,19 +115,11 @@ export declare function SvgScience(props: IconBaseProps): JSX.Element;
 export declare function SvgScoreboard(props: IconBaseProps): JSX.Element;
 export declare function SvgScubaDiving(props: IconBaseProps): JSX.Element;
 export declare function SvgSelfImprovement(props: IconBaseProps): JSX.Element;
-export declare function SvgSentimentDissatisfied(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgSentimentDissatisfied(props: IconBaseProps): JSX.Element;
 export declare function SvgSentimentNeutral(props: IconBaseProps): JSX.Element;
-export declare function SvgSentimentSatisfied(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgSentimentVeryDissatisfied(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgSentimentVerySatisfied(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgSentimentSatisfied(props: IconBaseProps): JSX.Element;
+export declare function SvgSentimentVeryDissatisfied(props: IconBaseProps): JSX.Element;
+export declare function SvgSentimentVerySatisfied(props: IconBaseProps): JSX.Element;
 export declare function SvgSevereCold(props: IconBaseProps): JSX.Element;
 export declare function SvgShare(props: IconBaseProps): JSX.Element;
 export declare function SvgSick(props: IconBaseProps): JSX.Element;

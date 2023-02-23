@@ -25,12 +25,8 @@ export declare function SvgCategory(props: IconBaseProps): JSX.Element;
 export declare function SvgCelebration(props: IconBaseProps): JSX.Element;
 export declare function SvgChurch(props: IconBaseProps): JSX.Element;
 export declare function SvgCleaningServices(props: IconBaseProps): JSX.Element;
-export declare function SvgCompassCalibration(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgConnectingAirports(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgCompassCalibration(props: IconBaseProps): JSX.Element;
+export declare function SvgConnectingAirports(props: IconBaseProps): JSX.Element;
 export declare function SvgCrisisAlert(props: IconBaseProps): JSX.Element;
 export declare function SvgDeliveryDining(props: IconBaseProps): JSX.Element;
 export declare function SvgDepartureBoard(props: IconBaseProps): JSX.Element;
@@ -38,30 +34,18 @@ export declare function SvgDesignServices(props: IconBaseProps): JSX.Element;
 export declare function SvgDiamond(props: IconBaseProps): JSX.Element;
 export declare function SvgDinnerDining(props: IconBaseProps): JSX.Element;
 export declare function SvgDirectionsBike(props: IconBaseProps): JSX.Element;
-export declare function SvgDirectionsBoatFilled(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgDirectionsBoatFilled(props: IconBaseProps): JSX.Element;
 export declare function SvgDirectionsBoat(props: IconBaseProps): JSX.Element;
-export declare function SvgDirectionsBusFilled(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgDirectionsBusFilled(props: IconBaseProps): JSX.Element;
 export declare function SvgDirectionsBus(props: IconBaseProps): JSX.Element;
-export declare function SvgDirectionsCarFilled(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgDirectionsCarFilled(props: IconBaseProps): JSX.Element;
 export declare function SvgDirectionsCar(props: IconBaseProps): JSX.Element;
-export declare function SvgDirectionsRailwayFilled(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgDirectionsRailwayFilled(props: IconBaseProps): JSX.Element;
 export declare function SvgDirectionsRailway(props: IconBaseProps): JSX.Element;
 export declare function SvgDirectionsRun(props: IconBaseProps): JSX.Element;
-export declare function SvgDirectionsSubwayFilled(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgDirectionsSubwayFilled(props: IconBaseProps): JSX.Element;
 export declare function SvgDirectionsSubway(props: IconBaseProps): JSX.Element;
-export declare function SvgDirectionsTransitFilled(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgDirectionsTransitFilled(props: IconBaseProps): JSX.Element;
 export declare function SvgDirectionsTransit(props: IconBaseProps): JSX.Element;
 export declare function SvgDirectionsWalk(props: IconBaseProps): JSX.Element;
 export declare function SvgDirections(props: IconBaseProps): JSX.Element;
@@ -77,12 +61,8 @@ export declare function SvgElectricCar(props: IconBaseProps): JSX.Element;
 export declare function SvgElectricMoped(props: IconBaseProps): JSX.Element;
 export declare function SvgElectricRickshaw(props: IconBaseProps): JSX.Element;
 export declare function SvgElectricScooter(props: IconBaseProps): JSX.Element;
-export declare function SvgElectricalServices(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgEmergencyRecording(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgElectricalServices(props: IconBaseProps): JSX.Element;
+export declare function SvgEmergencyRecording(props: IconBaseProps): JSX.Element;
 export declare function SvgEmergencyShare(props: IconBaseProps): JSX.Element;
 export declare function SvgEmergency(props: IconBaseProps): JSX.Element;
 export declare function SvgEvStation(props: IconBaseProps): JSX.Element;
@@ -112,22 +92,16 @@ export declare function SvgLocalAtm(props: IconBaseProps): JSX.Element;
 export declare function SvgLocalBar(props: IconBaseProps): JSX.Element;
 export declare function SvgLocalCafe(props: IconBaseProps): JSX.Element;
 export declare function SvgLocalCarWash(props: IconBaseProps): JSX.Element;
-export declare function SvgLocalConvenienceStore(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgLocalConvenienceStore(props: IconBaseProps): JSX.Element;
 export declare function SvgLocalDining(props: IconBaseProps): JSX.Element;
 export declare function SvgLocalDrink(props: IconBaseProps): JSX.Element;
-export declare function SvgLocalFireDepartment(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgLocalFireDepartment(props: IconBaseProps): JSX.Element;
 export declare function SvgLocalFlorist(props: IconBaseProps): JSX.Element;
 export declare function SvgLocalGasStation(props: IconBaseProps): JSX.Element;
 export declare function SvgLocalGroceryStore(props: IconBaseProps): JSX.Element;
 export declare function SvgLocalHospital(props: IconBaseProps): JSX.Element;
 export declare function SvgLocalHotel(props: IconBaseProps): JSX.Element;
-export declare function SvgLocalLaundryService(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgLocalLaundryService(props: IconBaseProps): JSX.Element;
 export declare function SvgLocalLibrary(props: IconBaseProps): JSX.Element;
 export declare function SvgLocalMall(props: IconBaseProps): JSX.Element;
 export declare function SvgLocalMovies(props: IconBaseProps): JSX.Element;
@@ -146,16 +120,12 @@ export declare function SvgLocalTaxi(props: IconBaseProps): JSX.Element;
 export declare function SvgLunchDining(props: IconBaseProps): JSX.Element;
 export declare function SvgMap(props: IconBaseProps): JSX.Element;
 export declare function SvgMapsUgc(props: IconBaseProps): JSX.Element;
-export declare function SvgMedicalInformation(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgMedicalInformation(props: IconBaseProps): JSX.Element;
 export declare function SvgMedicalServices(props: IconBaseProps): JSX.Element;
 export declare function SvgMenuBook(props: IconBaseProps): JSX.Element;
 export declare function SvgMerge(props: IconBaseProps): JSX.Element;
 export declare function SvgMinorCrash(props: IconBaseProps): JSX.Element;
-export declare function SvgMiscellaneousServices(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgMiscellaneousServices(props: IconBaseProps): JSX.Element;
 export declare function SvgModeOfTravel(props: IconBaseProps): JSX.Element;
 export declare function SvgMoney(props: IconBaseProps): JSX.Element;
 export declare function SvgMoped(props: IconBaseProps): JSX.Element;
@@ -203,9 +173,7 @@ export declare function SvgSnowmobile(props: IconBaseProps): JSX.Element;
 export declare function SvgSos(props: IconBaseProps): JSX.Element;
 export declare function SvgSoupKitchen(props: IconBaseProps): JSX.Element;
 export declare function SvgStadium(props: IconBaseProps): JSX.Element;
-export declare function SvgStoreMallDirectory(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgStoreMallDirectory(props: IconBaseProps): JSX.Element;
 export declare function SvgStraight(props: IconBaseProps): JSX.Element;
 export declare function SvgStreetview(props: IconBaseProps): JSX.Element;
 export declare function SvgSubway(props: IconBaseProps): JSX.Element;
@@ -220,9 +188,7 @@ export declare function SvgTireRepair(props: IconBaseProps): JSX.Element;
 export declare function SvgTraffic(props: IconBaseProps): JSX.Element;
 export declare function SvgTrain(props: IconBaseProps): JSX.Element;
 export declare function SvgTram(props: IconBaseProps): JSX.Element;
-export declare function SvgTransferWithinAStation(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgTransferWithinAStation(props: IconBaseProps): JSX.Element;
 export declare function SvgTransitEnterexit(props: IconBaseProps): JSX.Element;
 export declare function SvgTripOrigin(props: IconBaseProps): JSX.Element;
 export declare function SvgTurnLeft(props: IconBaseProps): JSX.Element;

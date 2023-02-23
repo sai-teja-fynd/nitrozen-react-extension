@@ -19,9 +19,7 @@ export declare function SvgAlbum(props: IconBaseProps): JSX.Element;
 export declare function SvgArtTrack(props: IconBaseProps): JSX.Element;
 export declare function SvgAudioFile(props: IconBaseProps): JSX.Element;
 export declare function SvgAvTimer(props: IconBaseProps): JSX.Element;
-export declare function SvgClosedCaptionDisabled(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgClosedCaptionDisabled(props: IconBaseProps): JSX.Element;
 export declare function SvgClosedCaptionOff(props: IconBaseProps): JSX.Element;
 export declare function SvgClosedCaption(props: IconBaseProps): JSX.Element;
 export declare function SvgControlCamera(props: IconBaseProps): JSX.Element;
@@ -52,16 +50,12 @@ export declare function SvgMusicVideo(props: IconBaseProps): JSX.Element;
 export declare function SvgNewReleases(props: IconBaseProps): JSX.Element;
 export declare function SvgNotInterested(props: IconBaseProps): JSX.Element;
 export declare function SvgPauseCircleFilled(props: IconBaseProps): JSX.Element;
-export declare function SvgPauseCircleOutline(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgPauseCircleOutline(props: IconBaseProps): JSX.Element;
 export declare function SvgPauseCircle(props: IconBaseProps): JSX.Element;
 export declare function SvgPlayArrow(props: IconBaseProps): JSX.Element;
 export declare function SvgPlayCircleFilled(props: IconBaseProps): JSX.Element;
 export declare function SvgPlayCircle(props: IconBaseProps): JSX.Element;
-export declare function SvgPlaylistAddCheckCircle(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgPlaylistAddCheckCircle(props: IconBaseProps): JSX.Element;
 export declare function SvgPlaylistAddCheck(props: IconBaseProps): JSX.Element;
 export declare function SvgPlaylistAddCircle(props: IconBaseProps): JSX.Element;
 export declare function SvgPlaylistAdd(props: IconBaseProps): JSX.Element;
@@ -76,9 +70,7 @@ export declare function SvgRepeat(props: IconBaseProps): JSX.Element;
 export declare function SvgReplay10(props: IconBaseProps): JSX.Element;
 export declare function SvgReplay30(props: IconBaseProps): JSX.Element;
 export declare function SvgReplay5(props: IconBaseProps): JSX.Element;
-export declare function SvgReplayCircleFilled(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgReplayCircleFilled(props: IconBaseProps): JSX.Element;
 export declare function SvgReplay(props: IconBaseProps): JSX.Element;
 export declare function SvgSd(props: IconBaseProps): JSX.Element;
 export declare function SvgSkipNext(props: IconBaseProps): JSX.Element;

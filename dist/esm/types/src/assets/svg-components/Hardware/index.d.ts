@@ -1,8 +1,6 @@
 import { IconBaseProps } from "../../../components/Icons/GenIcon";
 export declare function SvgAdfScanner(props: IconBaseProps): JSX.Element;
-export declare function SvgBrowserNotSupported(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgBrowserNotSupported(props: IconBaseProps): JSX.Element;
 export declare function SvgBrowserUpdated(props: IconBaseProps): JSX.Element;
 export declare function SvgCastConnected(props: IconBaseProps): JSX.Element;
 export declare function SvgCastForEducation(props: IconBaseProps): JSX.Element;
@@ -30,30 +28,16 @@ export declare function SvgHomeMini(props: IconBaseProps): JSX.Element;
 export declare function SvgKeyboardAlt(props: IconBaseProps): JSX.Element;
 export declare function SvgKeyboardArrowDown(props: IconBaseProps): JSX.Element;
 export declare function SvgKeyboardArrowLeft(props: IconBaseProps): JSX.Element;
-export declare function SvgKeyboardArrowRight(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgKeyboardArrowRight(props: IconBaseProps): JSX.Element;
 export declare function SvgKeyboardArrowUp(props: IconBaseProps): JSX.Element;
 export declare function SvgKeyboardBackspace(props: IconBaseProps): JSX.Element;
 export declare function SvgKeyboardCapslock(props: IconBaseProps): JSX.Element;
-export declare function SvgKeyboardCommandKey(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgKeyboardControlKey(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgKeyboardDoubleArrowDown(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgKeyboardDoubleArrowLeft(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgKeyboardDoubleArrowRight(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgKeyboardDoubleArrowUp(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgKeyboardCommandKey(props: IconBaseProps): JSX.Element;
+export declare function SvgKeyboardControlKey(props: IconBaseProps): JSX.Element;
+export declare function SvgKeyboardDoubleArrowDown(props: IconBaseProps): JSX.Element;
+export declare function SvgKeyboardDoubleArrowLeft(props: IconBaseProps): JSX.Element;
+export declare function SvgKeyboardDoubleArrowRight(props: IconBaseProps): JSX.Element;
+export declare function SvgKeyboardDoubleArrowUp(props: IconBaseProps): JSX.Element;
 export declare function SvgKeyboardHide(props: IconBaseProps): JSX.Element;
 export declare function SvgKeyboardOptionKey(props: IconBaseProps): JSX.Element;
 export declare function SvgKeyboardReturn(props: IconBaseProps): JSX.Element;

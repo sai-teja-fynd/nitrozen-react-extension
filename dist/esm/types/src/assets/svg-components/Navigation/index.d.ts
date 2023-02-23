@@ -6,9 +6,7 @@ export declare function SvgArrowBackIosNew(props: IconBaseProps): JSX.Element;
 export declare function SvgArrowBackIos(props: IconBaseProps): JSX.Element;
 export declare function SvgArrowBack(props: IconBaseProps): JSX.Element;
 export declare function SvgArrowDownward(props: IconBaseProps): JSX.Element;
-export declare function SvgArrowDropDownCircle(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgArrowDropDownCircle(props: IconBaseProps): JSX.Element;
 export declare function SvgArrowDropDown(props: IconBaseProps): JSX.Element;
 export declare function SvgArrowDropUp(props: IconBaseProps): JSX.Element;
 export declare function SvgArrowForwardIos(props: IconBaseProps): JSX.Element;
@@ -16,9 +14,7 @@ export declare function SvgArrowForward(props: IconBaseProps): JSX.Element;
 export declare function SvgArrowLeft(props: IconBaseProps): JSX.Element;
 export declare function SvgArrowRight(props: IconBaseProps): JSX.Element;
 export declare function SvgArrowUpward(props: IconBaseProps): JSX.Element;
-export declare function SvgAssistantDirection(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgAssistantDirection(props: IconBaseProps): JSX.Element;
 export declare function SvgCampaign(props: IconBaseProps): JSX.Element;
 export declare function SvgCancel(props: IconBaseProps): JSX.Element;
 export declare function SvgCheck(props: IconBaseProps): JSX.Element;
@@ -51,12 +47,8 @@ export declare function SvgRefresh(props: IconBaseProps): JSX.Element;
 export declare function SvgSouthEast(props: IconBaseProps): JSX.Element;
 export declare function SvgSouthWest(props: IconBaseProps): JSX.Element;
 export declare function SvgSouth(props: IconBaseProps): JSX.Element;
-export declare function SvgSubdirectoryArrowLeft(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgSubdirectoryArrowRight(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgSubdirectoryArrowLeft(props: IconBaseProps): JSX.Element;
+export declare function SvgSubdirectoryArrowRight(props: IconBaseProps): JSX.Element;
 export declare function SvgSwitchLeft(props: IconBaseProps): JSX.Element;
 export declare function SvgSwitchRight(props: IconBaseProps): JSX.Element;
 export declare function SvgUnfoldLess(props: IconBaseProps): JSX.Element;

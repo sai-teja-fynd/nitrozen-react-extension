@@ -14,12 +14,8 @@ export declare function SvgAddAlarm(props: IconBaseProps): JSX.Element;
 export declare function SvgAddToHomeScreen(props: IconBaseProps): JSX.Element;
 export declare function SvgAir(props: IconBaseProps): JSX.Element;
 export declare function SvgAirplaneTicket(props: IconBaseProps): JSX.Element;
-export declare function SvgAirplanemodeActive(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgAirplanemodeInactive(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgAirplanemodeActive(props: IconBaseProps): JSX.Element;
+export declare function SvgAirplanemodeInactive(props: IconBaseProps): JSX.Element;
 export declare function SvgAod(props: IconBaseProps): JSX.Element;
 export declare function SvgBattery0Bar(props: IconBaseProps): JSX.Element;
 export declare function SvgBattery1Bar(props: IconBaseProps): JSX.Element;
@@ -29,22 +25,16 @@ export declare function SvgBattery4Bar(props: IconBaseProps): JSX.Element;
 export declare function SvgBattery5Bar(props: IconBaseProps): JSX.Element;
 export declare function SvgBattery6Bar(props: IconBaseProps): JSX.Element;
 export declare function SvgBatteryAlert(props: IconBaseProps): JSX.Element;
-export declare function SvgBatteryChargingFull(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgBatteryChargingFull(props: IconBaseProps): JSX.Element;
 export declare function SvgBatteryFull(props: IconBaseProps): JSX.Element;
 export declare function SvgBatterySaver(props: IconBaseProps): JSX.Element;
 export declare function SvgBatteryStd(props: IconBaseProps): JSX.Element;
 export declare function SvgBatteryUnknown(props: IconBaseProps): JSX.Element;
 export declare function SvgBloodtype(props: IconBaseProps): JSX.Element;
-export declare function SvgBluetoothConnected(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgBluetoothConnected(props: IconBaseProps): JSX.Element;
 export declare function SvgBluetoothDisabled(props: IconBaseProps): JSX.Element;
 export declare function SvgBluetoothDrive(props: IconBaseProps): JSX.Element;
-export declare function SvgBluetoothSearching(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgBluetoothSearching(props: IconBaseProps): JSX.Element;
 export declare function SvgBluetooth(props: IconBaseProps): JSX.Element;
 export declare function SvgBrightnessAuto(props: IconBaseProps): JSX.Element;
 export declare function SvgBrightnessHigh(props: IconBaseProps): JSX.Element;
@@ -62,9 +52,7 @@ export declare function SvgDeviceThermostat(props: IconBaseProps): JSX.Element;
 export declare function SvgDevicesFold(props: IconBaseProps): JSX.Element;
 export declare function SvgDevices(props: IconBaseProps): JSX.Element;
 export declare function SvgDiscount(props: IconBaseProps): JSX.Element;
-export declare function SvgDoNotDisturbOnTotalSilence(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgDoNotDisturbOnTotalSilence(props: IconBaseProps): JSX.Element;
 export declare function SvgDvr(props: IconBaseProps): JSX.Element;
 export declare function SvgEMobiledata(props: IconBaseProps): JSX.Element;
 export declare function SvgEdgesensorHigh(props: IconBaseProps): JSX.Element;
@@ -135,85 +123,43 @@ export declare function SvgResetTv(props: IconBaseProps): JSX.Element;
 export declare function SvgRestartAlt(props: IconBaseProps): JSX.Element;
 export declare function SvgReviews(props: IconBaseProps): JSX.Element;
 export declare function SvgRsvp(props: IconBaseProps): JSX.Element;
-export declare function SvgScreenLockLandscape(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgScreenLockPortrait(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgScreenLockRotation(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgScreenLockLandscape(props: IconBaseProps): JSX.Element;
+export declare function SvgScreenLockPortrait(props: IconBaseProps): JSX.Element;
+export declare function SvgScreenLockRotation(props: IconBaseProps): JSX.Element;
 export declare function SvgScreenRotation(props: IconBaseProps): JSX.Element;
-export declare function SvgScreenSearchDesktop(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgScreenSearchDesktop(props: IconBaseProps): JSX.Element;
 export declare function SvgScreenshotMonitor(props: IconBaseProps): JSX.Element;
 export declare function SvgScreenshot(props: IconBaseProps): JSX.Element;
 export declare function SvgSdStorage(props: IconBaseProps): JSX.Element;
-export declare function SvgSecurityUpdateGood(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgSecurityUpdateWarning(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgSecurityUpdateGood(props: IconBaseProps): JSX.Element;
+export declare function SvgSecurityUpdateWarning(props: IconBaseProps): JSX.Element;
 export declare function SvgSecurityUpdate(props: IconBaseProps): JSX.Element;
 export declare function SvgSell(props: IconBaseProps): JSX.Element;
 export declare function SvgSendToMobile(props: IconBaseProps): JSX.Element;
 export declare function SvgSettingsSuggest(props: IconBaseProps): JSX.Element;
-export declare function SvgSettingsSystemDaydream(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgSettingsSystemDaydream(props: IconBaseProps): JSX.Element;
 export declare function SvgShareLocation(props: IconBaseProps): JSX.Element;
 export declare function SvgShortcut(props: IconBaseProps): JSX.Element;
-export declare function SvgSignalCellular0Bar(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgSignalCellular4Bar(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgSignalCellularAlt1Bar(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgSignalCellularAlt2Bar(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgSignalCellular0Bar(props: IconBaseProps): JSX.Element;
+export declare function SvgSignalCellular4Bar(props: IconBaseProps): JSX.Element;
+export declare function SvgSignalCellularAlt1Bar(props: IconBaseProps): JSX.Element;
+export declare function SvgSignalCellularAlt2Bar(props: IconBaseProps): JSX.Element;
 export declare function SvgSignalCellularAlt(props: IconBaseProps): JSX.Element;
-export declare function SvgSignalCellularConnectedNoInternet0Bar(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgSignalCellularConnectedNoInternet4Bar(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgSignalCellularNoSim(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgSignalCellularNodata(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgSignalCellularNull(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgSignalCellularConnectedNoInternet0Bar(props: IconBaseProps): JSX.Element;
+export declare function SvgSignalCellularConnectedNoInternet4Bar(props: IconBaseProps): JSX.Element;
+export declare function SvgSignalCellularNoSim(props: IconBaseProps): JSX.Element;
+export declare function SvgSignalCellularNodata(props: IconBaseProps): JSX.Element;
+export declare function SvgSignalCellularNull(props: IconBaseProps): JSX.Element;
 export declare function SvgSignalCellularOff(props: IconBaseProps): JSX.Element;
 export declare function SvgSignalWifi0Bar(props: IconBaseProps): JSX.Element;
-export declare function SvgSignalWifi4BarLock(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgSignalWifi4BarLock(props: IconBaseProps): JSX.Element;
 export declare function SvgSignalWifi4Bar(props: IconBaseProps): JSX.Element;
 export declare function SvgSignalWifiBad(props: IconBaseProps): JSX.Element;
-export declare function SvgSignalWifiConnectedNoInternet4(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgSignalWifiConnectedNoInternet4(props: IconBaseProps): JSX.Element;
 export declare function SvgSignalWifiOff(props: IconBaseProps): JSX.Element;
-export declare function SvgSignalWifiStatusbar4Bar(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgSignalWifiStatusbarConnectedNoInternet4(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgSignalWifiStatusbarNull(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgSignalWifiStatusbar4Bar(props: IconBaseProps): JSX.Element;
+export declare function SvgSignalWifiStatusbarConnectedNoInternet4(props: IconBaseProps): JSX.Element;
+export declare function SvgSignalWifiStatusbarNull(props: IconBaseProps): JSX.Element;
 export declare function SvgSimCardDownload(props: IconBaseProps): JSX.Element;
 export declare function SvgSplitscreen(props: IconBaseProps): JSX.Element;
 export declare function SvgSportsScore(props: IconBaseProps): JSX.Element;
@@ -221,15 +167,9 @@ export declare function SvgSsidChart(props: IconBaseProps): JSX.Element;
 export declare function SvgStorage(props: IconBaseProps): JSX.Element;
 export declare function SvgStorm(props: IconBaseProps): JSX.Element;
 export declare function SvgSummarize(props: IconBaseProps): JSX.Element;
-export declare function SvgSystemSecurityUpdateGood(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgSystemSecurityUpdateWarning(
-  props: IconBaseProps
-): JSX.Element;
-export declare function SvgSystemSecurityUpdate(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgSystemSecurityUpdateGood(props: IconBaseProps): JSX.Element;
+export declare function SvgSystemSecurityUpdateWarning(props: IconBaseProps): JSX.Element;
+export declare function SvgSystemSecurityUpdate(props: IconBaseProps): JSX.Element;
 export declare function SvgTask(props: IconBaseProps): JSX.Element;
 export declare function SvgThermostat(props: IconBaseProps): JSX.Element;
 export declare function SvgTimer10Select(props: IconBaseProps): JSX.Element;
@@ -247,8 +187,6 @@ export declare function SvgWifiChannel(props: IconBaseProps): JSX.Element;
 export declare function SvgWifiFind(props: IconBaseProps): JSX.Element;
 export declare function SvgWifiLock(props: IconBaseProps): JSX.Element;
 export declare function SvgWifiPassword(props: IconBaseProps): JSX.Element;
-export declare function SvgWifiTetheringError(
-  props: IconBaseProps
-): JSX.Element;
+export declare function SvgWifiTetheringError(props: IconBaseProps): JSX.Element;
 export declare function SvgWifiTetheringOff(props: IconBaseProps): JSX.Element;
 export declare function SvgWifiTethering(props: IconBaseProps): JSX.Element;
