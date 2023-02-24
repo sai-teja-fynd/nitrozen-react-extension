@@ -1,5 +1,5 @@
 import React from "react";
-import "./HelloWorld.css";
+import "./HelloWorld.scss";
 
 const HelloWorld = () => {
   return <div className="test">HelloWorld</div>;

@@ -1,5 +1,6 @@
 import HelloWorld from "./HelloWorld";
 import { ComponentStory, ComponentMeta } from '@storybook/react';
+import React from "react";
 
 
 export default {
