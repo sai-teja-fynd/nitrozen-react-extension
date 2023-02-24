@@ -1,0 +1,2 @@
+import e from"react";import{Link as a}from"../../../node_modules/react-router-dom/dist/index.js";function r(r){return e.createElement("div",{className:"bread-crumb-item"},e.createElement(a,{className:"bread-crumb-item-label  "+(r.isLast?"active-bread-crumb-label":""),to:r.BreadCrumb.link},r.BreadCrumb.label),!r.isLast&&e.createElement("span",{className:"bread-crumb-separator"},r.separator))}export{r as default};
+//# sourceMappingURL=BreadCrumbItem.js.map

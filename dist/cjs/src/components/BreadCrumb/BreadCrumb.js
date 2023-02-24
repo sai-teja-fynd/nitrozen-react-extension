@@ -1,0 +1,2 @@
+"use strict";var e=require("react");require("./breadcrumb.scss.js");var r=require("./BreadCrumbItem.js");function t(e){return e&&"object"==typeof e&&"default"in e?e:{default:e}}var a=t(e);let u=[];module.exports=function(){const e=u.length;return a.default.createElement("div",{className:"bread-crumb"},a.default.createElement("nav",{className:"bread-crumb-nav"},a.default.createElement("ul",null,u.map(((t,u)=>a.default.createElement("li",null,a.default.createElement(r,{key:"idx",BreadCrumb:t,separator:">",isLast:u===e-1})))))))};
+//# sourceMappingURL=BreadCrumb.js.map

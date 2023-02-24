@@ -1,0 +1,2 @@
+"use strict";var e=require("react"),a=require("../../../node_modules/react-router-dom/dist/index.js");function r(e){return e&&"object"==typeof e&&"default"in e?e:{default:e}}var t=r(e);module.exports=function(e){return t.default.createElement("div",{className:"bread-crumb-item"},t.default.createElement(a.Link,{className:"bread-crumb-item-label  "+(e.isLast?"active-bread-crumb-label":""),to:e.BreadCrumb.link},e.BreadCrumb.label),!e.isLast&&t.default.createElement("span",{className:"bread-crumb-separator"},e.separator))};
+//# sourceMappingURL=BreadCrumbItem.js.map

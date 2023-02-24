@@ -1,1 +1,1 @@
-{"version":3,"file":"HelloWorld.js","sources":["../../../../../../../src/components/HelloWorld/HelloWorld.tsx"],"sourcesContent":[null],"names":["React","createElement","className"],"mappings":"sKAGmB,IACVA,EAAAA,QAAKC,cAAA,MAAA,CAAAC,UAAU"}
+{"version":3,"file":"HelloWorld.js","sources":["../../../../../../../src/components/HelloWorld/HelloWorld.tsx"],"sourcesContent":[null],"names":["props","React","createElement","className","text"],"mappings":"sKAGoBA,GACXC,EAAA,QAAAC,cAAA,MAAA,CAAKC,UAAU,QAAQH,EAAMI"}

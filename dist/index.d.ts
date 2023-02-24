@@ -1,4 +1,6 @@
 declare const HelloWorld: () => JSX.Element;
 
-export { HelloWorld };
+declare function BreadCrumb(): JSX.Element;
+
+export { BreadCrumb, HelloWorld };
 //# sourceMappingURL=index.d.ts.map

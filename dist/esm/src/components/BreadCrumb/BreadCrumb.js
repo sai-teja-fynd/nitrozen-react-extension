@@ -1,0 +1,2 @@
+import e from"react";import"./breadcrumb.scss.js";import r from"./BreadCrumbItem.js";let t=[];function a(){const a=t.length;return e.createElement("div",{className:"bread-crumb"},e.createElement("nav",{className:"bread-crumb-nav"},e.createElement("ul",null,t.map(((t,m)=>e.createElement("li",null,e.createElement(r,{key:"idx",BreadCrumb:t,separator:">",isLast:m===a-1})))))))}export{a as default};
+//# sourceMappingURL=BreadCrumb.js.map

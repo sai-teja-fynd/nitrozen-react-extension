@@ -1,0 +1,39 @@
+ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+}
+/* .bread-crumb-item{
+    display: flex;
+    flex-direction: row;
+} */
+
+.bread-crumb-item-label{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 0.75rem;
+    line-height: 1rem;
+    text-transform: capitalize;
+    color: #393939;
+    opacity: 0.3;
+}
+
+.active-bread-crumb-label{
+    font-weight: 600;
+    font-size: 0.75rem;
+    line-height: 1rem;
+    color: #333333;
+    opacity: 0.7;
+}
+
+.bread-crumb-separator{
+    margin: 0 1rem 0 1rem;
+    opacity: 0.3;
+    font-size: 0.7rem;
+}
