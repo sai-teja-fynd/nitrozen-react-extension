@@ -103,7 +103,8 @@
   },
   "peerDependencies": {
     "react": ">=0.14.0 <= 18",
-    "react-dom": ">=0.14.0 <= 18"
+    "react-dom": ">=0.14.0 <= 18",
+    "react-router-dom": "^6.8.1"
   },
   "main": "dist/cjs/src/index.js",
   "module": "dist/esm/src/index.js",
@@ -115,8 +116,5 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
-  },
-  "dependencies": {
-    "react-router-dom": "^6.8.1"
   }
 }

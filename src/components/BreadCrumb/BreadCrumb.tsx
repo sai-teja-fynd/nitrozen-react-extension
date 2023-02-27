@@ -6,6 +6,7 @@ export interface IBreadCrumbItem{
   label:string,
   link:string
 }
+
 let BreadCrumbItemsAll: Array<IBreadCrumbItem> = [];
 
 export default function BreadCrumb() {

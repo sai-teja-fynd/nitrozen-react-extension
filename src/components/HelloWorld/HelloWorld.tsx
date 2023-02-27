@@ -1,8 +1,17 @@
 import React from "react";
 import "./HelloWorld.scss";
 
-const HelloWorld = (props:any) => {
-  return <div className="test">{props.text}</div>;
+export interface IHelloWord{
+  text:string
+}
+
+const HelloWorld = (props:IHelloWord) => {
+  const {text} = props;
+  return <div className="test">{text}</div>;
 };
+
+HelloWorld.defaultProps = {
+  text:"Hello World"
+}
 
 export default HelloWorld;
