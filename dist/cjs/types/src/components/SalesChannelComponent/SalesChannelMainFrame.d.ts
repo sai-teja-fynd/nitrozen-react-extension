@@ -1,15 +1,4 @@
-interface IHelloWord {
-    text: string;
-}
-declare const HelloWorld: {
-    (props: IHelloWord): JSX.Element;
-    defaultProps: {
-        text: string;
-    };
-};
-
-declare function BreadCrumb(): JSX.Element;
-
+import "./saleschannelmainframe.scss";
 interface IApplicationRedirections {
     redirect_from: string;
     redirect_to: string;
@@ -30,7 +19,7 @@ interface IDomain {
     name: string;
     is_predefined?: boolean;
 }
-interface IApplication {
+export interface IApplication {
     website: {
         enabled: boolean;
         basepath: string;
@@ -77,6 +66,4 @@ interface ISalesChannelsList {
     handleClick: Function;
 }
 declare function SalesChannelMainFrame({ salesChannelsList, handleClick }: ISalesChannelsList): JSX.Element;
-
-export { BreadCrumb, HelloWorld, SalesChannelMainFrame as SalesChannel };
-//# sourceMappingURL=index.d.ts.map
+export default SalesChannelMainFrame;

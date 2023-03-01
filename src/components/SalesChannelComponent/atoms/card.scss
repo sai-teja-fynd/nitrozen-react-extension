@@ -1,0 +1,96 @@
+.sales-channel-card{
+    border: 1px solid #e4e5e6;
+    border-radius: 0.75rem;
+    margin: 1.25rem;
+    padding:1rem;
+    background-color: "#fff";
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 80%;
+    overflow: hidden;
+}
+
+.sales-channel-card:hover{
+    box-shadow: 5px 5px 5px 0 #0000001f;
+    -moz-box-shadow: 5px 5px 5px 0 #0000001f;
+    -webkit-box-shadow: 5px 5px 5px 0 #0000001f;
+}
+
+.card-logo-style{
+    height: 3rem;
+}
+
+.card-logo-style img{
+    padding: 0;
+    height: 3rem;
+}
+
+.card-content{
+    display:flex;
+    flex-direction: column;
+    margin-top: 15px;
+    height: 2.75rem;
+    align-items: flex-start;
+}
+
+.card-content h4{
+    margin: 0;
+    margin-bottom: 5px;
+    font-weight: 600;
+    font-size: 1rem;
+    height: 1.5rem;
+    color: #41434c;
+}
+
+.card-content p {
+    margin: 0;
+    font-size: 0.75rem;
+    height: 1.25;
+    color: #828282;
+    font-family: Inter, sans-serif;
+}
+
+.button-container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-top: 1.5rem;
+    justify-content: space-between;
+}
+
+.inactive_button,
+.active_button {
+    position: relative;
+    border: 1px solid #eb5757;
+    background-color: transparent;
+    color: #eb5757;
+    text-transform: uppercase;
+    padding: 4px 20px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1rem;
+}
+
+.active_button {
+    border: 1px solid #27ae60;
+    color: #27ae60;
+}
+
+.go-arrow {
+    padding: 6px;
+    border-radius: 20%;
+    border: 1px solid #dedede;
+    box-sizing: border-box;
+    color: blue;
+    width: 40px;
+    height: 40px;
+    grid-column: 2/3;
+}
+
+.go-arrow svg{
+    width: 25px;
+    height: 25px;
+}
