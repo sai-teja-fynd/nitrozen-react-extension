@@ -9,7 +9,7 @@ interface IApplicationMeta {
 }
 type ISecureURL = IApplication["banner"];
 type IDomain = IApplication["domain"];
-interface IApplication {
+export interface IApplication {
     website: {
         enabled: boolean;
         basepath: string;
@@ -60,24 +60,4 @@ interface IApplication {
     };
     id?: string;
 }
-
-type ISalesChannelsList = {
-    salesChannelsList: Array<IApplication>;
-    handleClick: Function;
-};
-declare function SalesChannelMainFrame({ salesChannelsList, handleClick }: ISalesChannelsList): JSX.Element;
-
-interface IHelloWord {
-    text: string;
-}
-declare const HelloWorld: {
-    (props: IHelloWord): JSX.Element;
-    defaultProps: {
-        text: string;
-    };
-};
-
-declare function BreadCrumb(): JSX.Element;
-
-export { BreadCrumb, HelloWorld, IApplication, SalesChannelMainFrame as SalesChannel };
-//# sourceMappingURL=index.d.ts.map
+export {};
