@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import "./breadcrumb.scss";
+import "./breadcrumb.module.scss";
 import BreadCrumbItem from "./BreadCrumbItem";
 
 export interface IBreadCrumbItem{

@@ -1,6 +1,7 @@
 import React from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { IBreadCrumbItem } from  './BreadCrumb';
+import "./breadcrumb.module.scss";
 
 export interface IBreadCrumb{
   BreadCrumb:IBreadCrumbItem,
