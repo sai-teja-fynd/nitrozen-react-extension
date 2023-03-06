@@ -1,2 +1,0 @@
-import e from"react";function a(a){return e.createElement("div",{className:"bread-crumb-item",onClick:a.handleClick(a.BreadCrumb.link)},e.createElement("span",{className:"bread-crumb-item-label  "+(a.isLast?"active-bread-crumb-label":"")},a.BreadCrumb.label),!a.isLast&&e.createElement("span",{className:"bread-crumb-separator"},a.separator))}export{a as default};
-//# sourceMappingURL=BreadCrumbItem.js.map

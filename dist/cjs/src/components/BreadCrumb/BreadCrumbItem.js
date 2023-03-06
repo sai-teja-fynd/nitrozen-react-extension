@@ -1,2 +1,0 @@
-"use strict";function e(e){return e&&"object"==typeof e&&"default"in e?e:{default:e}}var a=e(require("react"));module.exports=function(e){return a.default.createElement("div",{className:"bread-crumb-item",onClick:e.handleClick(e.BreadCrumb.link)},a.default.createElement("span",{className:"bread-crumb-item-label  "+(e.isLast?"active-bread-crumb-label":"")},e.BreadCrumb.label),!e.isLast&&a.default.createElement("span",{className:"bread-crumb-separator"},e.separator))};
-//# sourceMappingURL=BreadCrumbItem.js.map

@@ -10,7 +10,7 @@ export interface IBreadCrumbItem{
 let BreadCrumbItemsAll: Array<IBreadCrumbItem> = [];
 
 export interface IBreadCrumbProps {
-  handleClick: () => void;
+  handleClick: (link:string) => void;
 }
 
 const BreadCrumb:React.FC<IBreadCrumbProps> = ({handleClick}) => {
