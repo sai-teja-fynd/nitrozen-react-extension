@@ -10,6 +10,7 @@ export interface IBreadCrumbItem{
 let BreadCrumbItemsAll: Array<IBreadCrumbItem> = [];
 
 export default function BreadCrumb() {
+  console.log(BreadCrumbItemsAll);
   const arrSize = BreadCrumbItemsAll.length;
   return (
     <div className="bread-crumb">
@@ -40,5 +41,5 @@ export function setBreadCrumpsItems(label:string, link:string) {
     }
   });
   BreadCrumbItemsAll.push({ label: label, link: link });
-  console.log("BreadCrumbItemsAll", BreadCrumbItemsAll);
+  // console.log("BreadCrumbItemsAll", BreadCrumbItemsAll);
 }

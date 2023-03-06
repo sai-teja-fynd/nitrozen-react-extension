@@ -78,6 +78,7 @@ declare const HelloWorld: {
 };
 
 declare function BreadCrumb(): JSX.Element;
+declare function setBreadCrumpsItems(label: string, link: string): void;
 
-export { BreadCrumb, HelloWorld, IApplication, SalesChannelMainFrame as SalesChannel };
+export { BreadCrumb, HelloWorld, IApplication, SalesChannelMainFrame as SalesChannel, setBreadCrumpsItems };
 //# sourceMappingURL=index.d.ts.map

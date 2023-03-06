@@ -18,7 +18,11 @@ function SalesChannelMainFrame({salesChannelsList,handleClick}: ISalesChannelsLi
   const [searchValue, setSearchValue] = useState("");
 
   useEffect(() => {
-    setSalesChannelsListToShow(salesChannelsList);
+    console.log("salesChannelsList",salesChannelsList);
+    
+    if(!salesChannelsList){
+      setSalesChannelsListToShow(salesChannelsList);
+    }
   }, [salesChannelsList]);
 
   useEffect(() => {

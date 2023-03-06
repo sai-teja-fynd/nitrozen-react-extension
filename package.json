@@ -1,6 +1,9 @@
 {
-  "name": "@gofynd/nitrozen-react-extension",
-  "version": "1.0.0",
+  "name": "@sai-teja-fynd/nitrozen-react-extension",
+  "version": "1.0.1",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/sai-teja-fynd"
+  },
   "description": "React component library for extensions inspired by Nitrozen",
   "private": false,
   "sideEffects": [
