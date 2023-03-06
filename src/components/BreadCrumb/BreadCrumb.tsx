@@ -9,7 +9,11 @@ export interface IBreadCrumbItem{
 
 let BreadCrumbItemsAll: Array<IBreadCrumbItem> = [];
 
-export default function BreadCrumb() {
+export interface IBreadCrumbProps {
+  handleClick: () => void;
+}
+
+const BreadCrumb:React.FC<IBreadCrumbProps> = ({handleClick}) => {
   console.log(BreadCrumbItemsAll);
   const arrSize = BreadCrumbItemsAll.length;
   return (
@@ -24,6 +28,7 @@ export default function BreadCrumb() {
                   BreadCrumb={BreadCrumbElement}
                   separator={">"}
                   isLast={idx === arrSize - 1}
+                  handleClick = {handleClick}
                 />
               </li>
             );
@@ -43,3 +48,5 @@ export function setBreadCrumpsItems(label:string, link:string) {
   BreadCrumbItemsAll.push({ label: label, link: link });
   // console.log("BreadCrumbItemsAll", BreadCrumbItemsAll);
 }
+
+export default BreadCrumb;
